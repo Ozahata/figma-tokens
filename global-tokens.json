@@ -3,7 +3,7 @@
     "color": {
       "gray": {
         "0": {
-          "value": "#FFFFFFF",
+          "value": "#FFFFFF",
           "type": "color"
         },
         "100": {
@@ -540,360 +540,10 @@
       "english": {
         "value": "Rakuten Sans UI",
         "type": "fontFamilies"
-      }
-    },
-    "typography": {
-      "layout": {
-        "h1": {
-          "heading": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
-            },
-            "fontSize": {
-              "value": "{font-size.24}",
-              "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.36}",
-              "type": "lineHeight"
-            }
-          },
-          "secondary": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
-            },
-            "fontSize": {
-              "value": "{font-size.20}",
-              "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.28}",
-              "type": "lineHeight"
-            }
-          }
-        },
-        "h2": {
-          "heading": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
-            },
-            "fontSize": {
-              "value": "{font-size.20}",
-              "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.30}",
-              "type": "lineHeight"
-            }
-          },
-          "secondary": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
-            },
-            "fontSize": {
-              "value": "{font-size.16}",
-              "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.24}",
-              "type": "lineHeight"
-            }
-          }
-        },
-        "h3": {
-          "heading": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
-            },
-            "fontSize": {
-              "value": "{font-size.16}",
-              "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.24}",
-              "type": "lineHeight"
-            }
-          },
-          "secondary": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
-            },
-            "fontSize": {
-              "value": "{font-size.14}",
-              "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.18}",
-              "type": "lineHeight"
-            }
-          }
-        },
-        "h4": {
-          "heading": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
-            },
-            "fontSize": {
-              "value": "{font-size.14}",
-              "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.21}",
-              "type": "lineHeight"
-            }
-          },
-          "secondary": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
-            },
-            "fontSize": {
-              "value": "{font-size.12}",
-              "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.21}",
-              "type": "lineHeight"
-            }
-          }
-        },
-        "h5": {
-          "heading": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
-            },
-            "fontSize": {
-              "value": "{font-size.12}",
-              "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.18}",
-              "type": "lineHeight"
-            }
-          },
-          "secondary": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
-            },
-            "fontSize": {
-              "value": "{font-size.10}",
-              "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.18}",
-              "type": "lineHeight"
-            }
-          }
-        },
-        "d1": {
-          "fontFamily": {
-            "value": "{font-family.japanese}",
-            "type": "fontFamily"
-          },
-          "fontSize": {
-            "value": "{font-size.46}",
-            "type": "fontSize"
-          },
-          "lineHeight": {
-            "value": "{line-height.64}",
-            "type": "lineHeight"
-          }
-        },
-        "d2": {
-          "fontFamily": {
-            "value": "{font-family.japanese}",
-            "type": "fontFamily"
-          },
-          "fontSize": {
-            "value": "{font-size.40}",
-            "type": "fontSize"
-          },
-          "lineHeight": {
-            "value": "{line-height.56}",
-            "type": "lineHeight"
-          }
-        },
-        "d3": {
-          "fontFamily": {
-            "value": "{font-family.japanese}",
-            "type": "fontFamily"
-          },
-          "fontSize": {
-            "value": "{font-size.36}",
-            "type": "fontSize"
-          },
-          "lineHeight": {
-            "value": "{line-height.50}",
-            "type": "lineHeight"
-          }
-        },
-        "d4": {
-          "fontFamily": {
-            "value": "{font-family.japanese}",
-            "type": "fontFamily"
-          },
-          "fontSize": {
-            "value": "{font-size.32}",
-            "type": "fontSize"
-          },
-          "lineHeight": {
-            "value": "{line-height.44}",
-            "type": "lineHeight"
-          }
-        },
-        "d5": {
-          "fontFamily": {
-            "value": "{font-family.japanese}",
-            "type": "fontFamily"
-          },
-          "fontSize": {
-            "value": "{font-size.28}",
-            "type": "fontSize"
-          },
-          "lineHeight": {
-            "value": "{line-height.39}",
-            "type": "lineHeight"
-          }
-        }
       },
-      "body1": {
-        "fontFamily": {
-          "value": "{font-family.japanese}",
-          "type": "fontFamily"
-        },
-        "fontWeight": {
-          "value": "{font-weight.regular}",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": "{font-size.16}",
-          "type": "fontSize"
-        },
-        "lineHeight": {
-          "value": "{line-height.24}",
-          "type": "lineHeight"
-        }
-      },
-      "body2": {
-        "fontFamily": {
-          "value": "{font-family.japanese}",
-          "type": "fontFamily"
-        },
-        "fontWeight": {
-          "value": "{font-weight.regular}",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": "{font-size.14}",
-          "type": "fontSize"
-        },
-        "lineHeight": {
-          "value": "{line-height.21}",
-          "type": "lineHeight"
-        }
-      },
-      "lead-body": {
-        "fontFamily": {
-          "value": "{font-family.japanese}",
-          "type": "fontFamily"
-        },
-        "fontWeight": {
-          "value": "{font-weight.light}",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": "{font-size.20}",
-          "type": "fontSize"
-        },
-        "lineHeight": {
-          "value": "{line-height.30}",
-          "type": "lineHeight"
-        }
-      },
-      "caption": {
-        "fontFamily": {
-          "value": "{font-family.japanese}",
-          "type": "fontFamily"
-        },
-        "fontWeight": {
-          "value": "{font-weight.regular}",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": "{font-size.12}",
-          "type": "fontSize"
-        },
-        "lineHeight": {
-          "value": "{line-height.18}",
-          "type": "lineHeight"
-        }
-      },
-      "overline": {
-        "fontFamily": {
-          "value": "{font-family.japanese}",
-          "type": "fontFamily"
-        },
-        "fontWeight": {
-          "value": "{font-weight.regular}",
-          "type": "fontWeight"
-        },
-        "fontSize": {
-          "value": "{font-size.10}",
-          "type": "fontSize"
-        },
-        "lineHeight": {
-          "value": "{line-height.15}",
-          "type": "lineHeight"
-        }
+      "main": {
+        "value": "Noto Sans CJK JP",
+        "type": "fontFamilies"
       }
     },
     "font-weight": {
@@ -987,23 +637,19 @@
         "value": "64",
         "type": "lineHeights"
       }
+    },
+    "border-radius": {
+      "4": {
+        "value": "4",
+        "type": "borderRadius"
+      }
     }
   },
   "global-en": {
     "typography": {
       "layout": {
         "h1": {
-          "heading": {
-            "fontFamily": {
-              "value": "{font-family.english}",
-              "type": "fontFamily"
-            }
-          },
           "secondary": {
-            "fontFamily": {
-              "value": "{font-family.english}",
-              "type": "fontFamily"
-            },
             "fontWeight": {
               "value": "{font-weight.regular}",
               "type": "fontWeight"
@@ -1011,17 +657,7 @@
           }
         },
         "h2": {
-          "heading": {
-            "fontFamily": {
-              "value": "{font-family.english}",
-              "type": "fontFamily"
-            }
-          },
           "secondary": {
-            "fontFamily": {
-              "value": "{font-family.english}",
-              "type": "fontFamily"
-            },
             "fontWeight": {
               "value": "{font-weight.regular}",
               "type": "fontWeight"
@@ -1029,39 +665,19 @@
           }
         },
         "h3": {
-          "heading": {
-            "fontFamily": {
-              "value": "{font-family.english}",
-              "type": "fontFamily"
-            }
-          },
           "secondary": {
-            "fontFamily": {
-              "value": "{font-family.english}",
-              "type": "fontFamily"
-            },
             "fontWeight": {
               "value": "{font-weight.regular}",
               "type": "fontWeight"
             },
             "fontSize": {
-              "value": "13",
+              "value": "{font-size.13}",
               "type": "fontSize"
             }
           }
         },
         "h4": {
-          "heading": {
-            "fontFamily": {
-              "value": "{font-family.english}",
-              "type": "fontFamily"
-            }
-          },
           "secondary": {
-            "fontFamily": {
-              "value": "{font-family.english}",
-              "type": "fontFamily"
-            },
             "fontWeight": {
               "value": "{font-weight.regular}",
               "type": "fontWeight"
@@ -1069,17 +685,7 @@
           }
         },
         "h5": {
-          "heading": {
-            "fontFamily": {
-              "value": "{font-family.english}",
-              "type": "fontFamily"
-            }
-          },
           "secondary": {
-            "fontFamily": {
-              "value": "{font-family.english}",
-              "type": "fontFamily"
-            },
             "fontWeight": {
               "value": "{font-weight.regular}",
               "type": "fontWeight"
@@ -1087,89 +693,47 @@
           }
         },
         "d1": {
-          "fontFamily": {
-            "value": "{font-family.english}",
-            "type": "fontFamily"
-          },
           "fontWeight": {
             "value": "{font-weight.regular}",
             "type": "fontWeight"
           }
         },
         "d2": {
-          "fontFamily": {
-            "value": "{font-family.english}",
-            "type": "fontFamily"
-          },
           "fontWeight": {
             "value": "{font-weight.regular}",
             "type": "fontWeight"
           }
         },
         "d3": {
-          "fontFamily": {
-            "value": "{font-family.english}",
-            "type": "fontFamily"
-          },
           "fontWeight": {
             "value": "{font-weight.regular}",
             "type": "fontWeight"
           }
         },
         "d4": {
-          "fontFamily": {
-            "value": "{font-family.english}",
-            "type": "fontFamily"
-          },
           "fontWeight": {
             "value": "{font-weight.regular}",
             "type": "fontWeight"
           }
         },
         "d5": {
-          "fontFamily": {
-            "value": "{font-family.english}",
-            "type": "fontFamily"
-          },
           "fontWeight": {
             "value": "{font-weight.regular}",
             "type": "fontWeight"
           }
         }
       },
-      "body1": {
-        "fontFamily": {
-          "value": "{font-family.english}",
-          "type": "fontFamily"
-        }
-      },
-      "body2": {
-        "fontFamily": {
-          "value": "{font-family.english}",
-          "type": "fontFamily"
-        }
-      },
       "lead-body": {
-        "fontFamily": {
-          "value": "{font-family.english}",
-          "type": "fontFamily"
-        },
         "fontWeight": {
           "value": "{font-weight.regular}",
           "type": "fontWeight"
         }
-      },
-      "caption": {
-        "fontFamily": {
-          "value": "{font-family.english}",
-          "type": "fontFamily"
-        }
-      },
-      "overline": {
-        "fontFamily": {
-          "value": "{font-family.english}",
-          "type": "fontFamily"
-        }
+      }
+    },
+    "font-family": {
+      "main": {
+        "value": "Rakuten Sans UI",
+        "type": "other"
       }
     }
   },
@@ -1178,248 +742,152 @@
       "layout": {
         "h1": {
           "heading": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
+            "lineHeight": {
+              "value": "{line-height.30}",
+              "type": "lineHeight"
             },
             "fontSize": {
               "value": "{font-size.20}",
               "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.30}",
-              "type": "lineHeight"
             }
           },
           "secondary": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
+            "lineHeight": {
+              "value": "{line-height.24}",
+              "type": "lineHeight"
             },
             "fontSize": {
               "value": "{font-size.16}",
               "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.24}",
-              "type": "lineHeight"
             }
           }
         },
         "h2": {
           "heading": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
+            "lineHeight": {
+              "value": "{line-height.24}",
+              "type": "lineHeight"
             },
             "fontSize": {
               "value": "{font-size.16}",
               "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.24}",
-              "type": "lineHeight"
             }
           },
           "secondary": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
+            "lineHeight": {
+              "value": "{line-height.18}",
+              "type": "lineHeight"
             },
             "fontSize": {
               "value": "{font-size.14}",
               "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.18}",
-              "type": "lineHeight"
             }
           }
         },
         "h3": {
           "heading": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
+            "lineHeight": {
+              "value": "{line-height.21}",
+              "type": "lineHeight"
             },
             "fontSize": {
               "value": "{font-size.14}",
               "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.21}",
-              "type": "lineHeight"
             }
           },
           "secondary": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
+            "lineHeight": {
+              "value": "{line-height.21}",
+              "type": "lineHeight"
             },
             "fontSize": {
               "value": "{font-size.12}",
               "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.21}",
-              "type": "lineHeight"
             }
           }
         },
         "h4": {
           "heading": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
+            "lineHeight": {
+              "value": "{line-height.18}",
+              "type": "lineHeight"
             },
             "fontSize": {
               "value": "{font-size.12}",
               "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.18}",
-              "type": "lineHeight"
             }
           },
           "secondary": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
+            "lineHeight": {
+              "value": "{line-height.18}",
+              "type": "lineHeight"
             },
             "fontSize": {
               "value": "{font-size.10}",
               "type": "fontSize"
-            },
-            "lineHeight": {
-              "value": "{line-height.18}",
-              "type": "lineHeight"
             }
           }
         },
         "h5": {
           "heading": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
-            },
-            "fontSize": {
-              "value": "{font-size.10}",
-              "type": "fontSize"
-            },
             "lineHeight": {
               "value": "{line-height.15}",
               "type": "lineHeight"
-            }
-          },
-          "secondary": {
-            "fontFamily": {
-              "value": "{font-family.japanese}",
-              "type": "fontFamily"
-            },
-            "fontWeight": {
-              "value": "{font-weight.bold}",
-              "type": "fontWeight"
             },
             "fontSize": {
               "value": "{font-size.10}",
               "type": "fontSize"
-            },
+            }
+          },
+          "secondary": {
             "lineHeight": {
               "value": "{line-height.12}",
               "type": "lineHeight"
+            },
+            "fontSize": {
+              "value": "{font-size.10}",
+              "type": "fontSize"
             }
           }
         },
         "d1": {
-          "fontFamily": {
-            "value": "{font-family.japanese}",
-            "type": "fontFamily"
+          "lineHeight": {
+            "value": "{line-height.50}",
+            "type": "lineHeight"
           },
           "fontSize": {
             "value": "{font-size.36}",
             "type": "fontSize"
-          },
-          "lineHeight": {
-            "value": "{line-height.50}",
-            "type": "lineHeight"
           }
         },
         "d2": {
-          "fontFamily": {
-            "value": "{font-family.japanese}",
-            "type": "fontFamily"
+          "lineHeight": {
+            "value": "{line-height.46}",
+            "type": "lineHeight"
           },
           "fontSize": {
             "value": "{font-size.32}",
             "type": "fontSize"
-          },
-          "lineHeight": {
-            "value": "{line-height.46}",
-            "type": "lineHeight"
           }
         },
         "d3": {
-          "fontFamily": {
-            "value": "{font-family.japanese}",
-            "type": "fontFamily"
+          "lineHeight": {
+            "value": "{line-height.40}",
+            "type": "lineHeight"
           },
           "fontSize": {
             "value": "{font-size.28}",
             "type": "fontSize"
-          },
-          "lineHeight": {
-            "value": "{line-height.40}",
-            "type": "lineHeight"
           }
         },
         "d4": {
-          "fontFamily": {
-            "value": "{font-family.japanese}",
-            "type": "fontFamily"
+          "lineHeight": {
+            "value": "{line-height.34}",
+            "type": "lineHeight"
           },
           "fontSize": {
             "value": "{font-size.24}",
             "type": "fontSize"
-          },
-          "lineHeight": {
-            "value": "{line-height.34}",
-            "type": "lineHeight"
           }
         }
       }
@@ -1473,7 +941,7 @@
         "h2": {
           "secondary": {
             "fontSize": {
-              "value": "13",
+              "value": "{font-size.13}",
               "type": "fontSize"
             }
           }
