@@ -245,6 +245,80 @@
               "type": "typography"
             }
           }
+        },
+        "button": {
+          "cta": {
+            "default": {
+              "color": {
+                "value": "{color.gray.0}",
+                "type": "color"
+              },
+              "background-color": {
+                "value": "{color.blue.700}",
+                "type": "color"
+              },
+              "border-radius": {
+                "value": "{border-radius.4}",
+                "type": "borderRadius"
+              }
+            },
+            "hover": {
+              "color": {
+                "value": "{color.gray.0}",
+                "type": "color"
+              },
+              "background-color": {
+                "value": "{color.blue.800}",
+                "type": "color"
+              },
+              "border-radius": {
+                "value": "{border-radius.4}",
+                "type": "borderRadius"
+              }
+            },
+            "active": {
+              "color": {
+                "value": "{color.gray.0}",
+                "type": "color"
+              },
+              "background-color": {
+                "value": "{color.blue.900}",
+                "type": "color"
+              },
+              "border-radius": {
+                "value": "{border-radius.4}",
+                "type": "borderRadius"
+              }
+            },
+            "focus": {
+              "color": {
+                "value": "{color.gray.0}",
+                "type": "color"
+              },
+              "background-color": {
+                "value": "{color.blue.700}",
+                "type": "color"
+              },
+              "border-radius": {
+                "value": "{border-radius.4}",
+                "type": "borderRadius"
+              }
+            },
+            "disabled": {
+              "color": {
+                "value": "{color.gray.600}",
+                "type": "color"
+              },
+              "background-color": {
+                "value": "{color.gray.300}",
+                "type": "color"
+              },
+              "border-radius": {
+                "value": "{border-radius.4}",
+                "type": "borderRadius"
+              }
+            }
+          }
         }
       },
       "spacing": {
